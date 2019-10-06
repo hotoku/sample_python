@@ -1,0 +1,1209 @@
+
+
+
+<!doctype html>
+
+<html class="windows x86 no-js" lang="ja" dir="ltr" data-latest-firefox="66.0.3" data-esr-versions="60.6.1" data-gtm-container-id="GTM-MW3R8V"  data-stub-attribution-rate="1.0">
+  <head>
+    <meta charset="utf-8">
+
+    <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/site.ec263d31b78e.js" charset="utf-8"></script>
+
+    <!--[if !lte IE 8]><!-->
+    
+    <!--<![endif]-->
+
+<!--
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://careers.mozilla.org to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.
+-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+    <title>
+  Firefox のプライバシーに関する通知
+ — Mozilla</title>
+    <meta name="description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mozilla">
+    <meta property="og:locale" content="ja">
+    <meta property="og:url" content="https://www.mozilla.org/ja/privacy/firefox/">
+    <meta property="og:image" content="https://www.mozilla.org/media/img/mozorg/mozilla-256.4720741d4108.jpg">
+    <meta property="og:title" content="
+  Firefox のプライバシーに関する通知
+">
+    <meta property="og:description" content="">
+    <meta property="fb:page_id" content="262134952380">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@mozilla">
+    <meta name="twitter:domain" content="mozilla.org">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://www.mozilla.org/media/img/favicon/apple-touch-icon-180x180.8772ec154918.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="https://www.mozilla.org/media/img/favicon/favicon-196x196.c80e6abe0767.png">
+    <link rel="shortcut icon" href="https://www.mozilla.org/media/img/favicon.d4f1f46b91f4.ico">
+        <link rel="canonical" href="https://www.mozilla.org/ja/privacy/firefox/">
+    <link rel="alternate" hreflang="x-default" href="https://www.mozilla.org/en-US/privacy/firefox/">
+    <link rel="alternate" hreflang="bn-BD" href="https://www.mozilla.org/bn-BD/privacy/firefox/" title="বাংলা (বাংলাদেশ)">
+        <link rel="alternate" hreflang="bn-IN" href="https://www.mozilla.org/bn-IN/privacy/firefox/" title="বাংলা (ভারত)">
+        <link rel="alternate" hreflang="cs" href="https://www.mozilla.org/cs/privacy/firefox/" title="Čeština">
+        <link rel="alternate" hreflang="de" href="https://www.mozilla.org/de/privacy/firefox/" title="Deutsch">
+        <link rel="alternate" hreflang="el" href="https://www.mozilla.org/el/privacy/firefox/" title="Ελληνικά">
+        <link rel="alternate" hreflang="en" href="https://www.mozilla.org/en-US/privacy/firefox/" title="English">
+        <link rel="alternate" hreflang="en-US" href="https://www.mozilla.org/en-US/privacy/firefox/" title="English (USA)">
+        <link rel="alternate" hreflang="es" href="https://www.mozilla.org/es-ES/privacy/firefox/" title="Español">
+        <link rel="alternate" hreflang="es-ES" href="https://www.mozilla.org/es-ES/privacy/firefox/" title="Español (de España)">
+        <link rel="alternate" hreflang="es-MX" href="https://www.mozilla.org/es-MX/privacy/firefox/" title="Español (de México)">
+        <link rel="alternate" hreflang="fr" href="https://www.mozilla.org/fr/privacy/firefox/" title="Français">
+        <link rel="alternate" hreflang="hi" href="https://www.mozilla.org/hi-IN/privacy/firefox/" title="हिन्दी">
+        <link rel="alternate" hreflang="hi-IN" href="https://www.mozilla.org/hi-IN/privacy/firefox/" title="हिन्दी (भारत)">
+        <link rel="alternate" hreflang="hr" href="https://www.mozilla.org/hr/privacy/firefox/" title="Hrvatski">
+        <link rel="alternate" hreflang="hu" href="https://www.mozilla.org/hu/privacy/firefox/" title="magyar">
+        <link rel="alternate" hreflang="id" href="https://www.mozilla.org/id/privacy/firefox/" title="Bahasa Indonesia">
+        <link rel="alternate" hreflang="it" href="https://www.mozilla.org/it/privacy/firefox/" title="Italiano">
+        <link rel="alternate" hreflang="ja" href="https://www.mozilla.org/ja/privacy/firefox/" title="日本語">
+        <link rel="alternate" hreflang="mk" href="https://www.mozilla.org/mk/privacy/firefox/" title="Македонски">
+        <link rel="alternate" hreflang="nl" href="https://www.mozilla.org/nl/privacy/firefox/" title="Nederlands">
+        <link rel="alternate" hreflang="pl" href="https://www.mozilla.org/pl/privacy/firefox/" title="Polski">
+        <link rel="alternate" hreflang="pt-BR" href="https://www.mozilla.org/pt-BR/privacy/firefox/" title="Português (do Brasil)">
+        <link rel="alternate" hreflang="ro" href="https://www.mozilla.org/ro/privacy/firefox/" title="Română">
+        <link rel="alternate" hreflang="ru" href="https://www.mozilla.org/ru/privacy/firefox/" title="Русский">
+        <link rel="alternate" hreflang="sr" href="https://www.mozilla.org/sr/privacy/firefox/" title="Српски">
+        <link rel="alternate" hreflang="ta" href="https://www.mozilla.org/ta/privacy/firefox/" title="தமிழ்">
+        <link rel="alternate" hreflang="tr" href="https://www.mozilla.org/tr/privacy/firefox/" title="Türkçe">
+        <link rel="alternate" hreflang="zh" href="https://www.mozilla.org/zh-CN/privacy/firefox/" title="中文">
+          <link rel="alternate" hreflang="zh-CN" href="https://www.mozilla.org/zh-CN/privacy/firefox/" title="中文 (简体)">
+          <link rel="alternate" hreflang="zh-TW" href="https://www.mozilla.org/zh-TW/privacy/firefox/" title="正體中文 (繁體)">
+        
+    
+
+    <link rel="stylesheet" media="screen,projection,tv" href="https://www.mozilla.org/media/css/l10n/ja/intl.2113f6c7fc4f.css">
+
+    <!--[if lte IE 8]>
+      
+      <script src="https://www.mozilla.org/media/js/libs/html5shiv.98460818858d.js"></script>
+
+      
+      
+  <link href="https://www.mozilla.org/media/css/BUNDLES/protocol-oldIE.295508ff34b7.css" rel="stylesheet" type="text/css" />
+
+    <![endif]-->
+
+    <!--[if !lte IE 8]><!-->
+    
+    
+  <link href="https://www.mozilla.org/media/css/BUNDLES/protocol-core.71b4225aedfb.css" rel="stylesheet" type="text/css" />
+
+
+    
+    
+  <link href="https://www.mozilla.org/media/css/BUNDLES/privacy_protocol.d9daee7e0dc9.css" rel="stylesheet" type="text/css" />
+
+    <!--<![endif]-->
+
+    
+      
+    
+
+    
+    
+      <!--
+Read more about our custom configuration and use of Google Analytics here:
+https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
+-->
+
+<!-- Google Tag Manager -->
+<!-- Customized for Mozilla.org-->
+<!-- Region Container: NONE -->
+<!-- Rollup Container: System Filtered -->
+<!-- Site Container: NONE -->
+
+
+  <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/gtm-snippet.9f9cf2026c5f.js" charset="utf-8"></script>
+
+<!-- End Google Tag Manager -->
+    
+  </head>
+
+  <body class="html-ltr privacy-policy product-firefox" >
+    <div id="strings"
+      data-global-close="閉じる"
+      data-global-next="次へ"
+      data-global-previous="戻る"
+      data-global-update-firefox="お使いの Firefox を更新"
+      data-global-fx-out-of-date-banner-heading="お使いの Firefox は古いバージョンです。"
+      data-global-fx-out-of-date-banner-message="安全にブラウジングを続けるため、最新版を使いましょう。"
+      data-global-fx-out-of-date-banner-confirm="Firefox を更新"
+      
+  data-choices-copy="この Firefox データをどのように共有したいか選択してください。"
+  data-choices-button="選択..."
+></div>
+
+  
+    
+
+<div class="mzp-c-navigation">
+  <div class="mzp-c-navigation-l-content">
+    <div class="mzp-c-navigation-container">
+      <button class="mzp-c-navigation-menu-button" type="button" aria-controls="mzp-c-navigation-items">メニュー</button>
+      <div class="mzp-c-navigation-logo">
+        <a href="/ja/" data-link-name="mozilla home icon" data-link-type="nav">
+        
+        
+          Mozilla
+        
+        </a>
+      </div>
+      <div class="mzp-c-navigation-items" id="mzp-c-navigation-items">
+        
+        <div class="mzp-c-navigation-download">
+          
+
+
+
+
+
+
+
+
+<div id="protocol-nav-download-firefox" class="download-button mzp-c-button-download-container">
+  
+  <div class="nojs-download">
+    
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        Firefox をダウンロード
+        — 日本語
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-stub&amp;os=win64&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="win64"
+               data-download-os="Desktop">Windows 64-bit</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="win"
+               data-download-os="Desktop">Windows 32-bit</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=osx&amp;lang=ja-JP-mac"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="osx"
+               data-download-os="Desktop">macOS</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux64&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="linux64"
+               data-download-os="Desktop">Linux 64-bit</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="linux"
+               data-download-os="Desktop">Linux 32-bit</a>
+        </li><li><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="android"
+               data-download-os="Android"
+               >Android</a>
+        </li><li><a href="https://itunes.apple.com/us/app/apple-store/id989804926?pt=373246&amp;mt=8"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="ios"
+               data-download-os="iOS"
+               >iOS</a>
+        </li>
+    </ul>
+  </div>
+
+  </div>
+  
+    
+    <div class="unrecognized-download">
+      <p>お使いのシステムは Firefox の動作要件を満たしていませんが、以下のいずれかを試すこともできます:</p>
+      
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        Firefox をダウンロード
+        — 日本語
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-stub&amp;os=win64&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="win64"
+               data-download-os="Desktop">Windows 64-bit</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="win"
+               data-download-os="Desktop">Windows 32-bit</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=osx&amp;lang=ja-JP-mac"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="osx"
+               data-download-os="Desktop">macOS</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux64&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="linux64"
+               data-download-os="Desktop">Linux 64-bit</a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux&amp;lang=ja"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="linux"
+               data-download-os="Desktop">Linux 32-bit</a>
+        </li><li><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="android"
+               data-download-os="Android"
+               >Android</a>
+        </li><li><a href="https://itunes.apple.com/us/app/apple-store/id989804926?pt=373246&amp;mt=8"
+               class="download-link button button-green mzp-c-button mzp-t-product"
+               data-link-type="download"
+               data-download-version="ios"
+               data-download-os="iOS"
+               >iOS</a>
+        </li>
+    </ul>
+  </div>
+
+    </div>
+    <p class="unsupported-download">
+      お使いのシステムは Firefox が動作する <a href="/ja/firefox/system-requirements/">要件</a> を満たしていません。
+    </p>
+    <p class="unsupported-download-osx">
+      お使いのシステムは Firefox が動作する <a href="https://support.mozilla.org/kb/firefox-osx">要件</a> を満たしていません。
+    </p>
+    <p class="linux-arm-download">
+      Firefox をインストールするには <a href="https://support.mozilla.org/kb/install-firefox-linux">こちらの手順</a> に従ってください。
+    </p>
+  
+  <ul class="download-list">
+    
+      <li class="os_win64">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="/firefox/download/thanks/"
+           data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win64&amp;lang=ja"
+           data-link-type="download"
+           data-display-name="Windows 64-bit"
+           data-download-version="win64"
+           data-download-os="Desktop"
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+      <li class="os_win">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="/firefox/download/thanks/"
+           data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=ja"
+           data-link-type="download"
+           data-display-name="Windows 32-bit"
+           data-download-version="win"
+           data-download-os="Desktop"
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+      <li class="os_osx">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="/firefox/download/thanks/"
+           data-direct-link="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=osx&amp;lang=ja-JP-mac"
+           data-link-type="download"
+           data-display-name="macOS"
+           data-download-version="osx"
+           data-download-os="Desktop"
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+      <li class="os_linux64">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="/firefox/download/thanks/"
+           data-direct-link="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux64&amp;lang=ja"
+           data-link-type="download"
+           data-display-name="Linux 64-bit"
+           data-download-version="linux64"
+           data-download-os="Desktop"
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+      <li class="os_linux">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="/firefox/download/thanks/"
+           data-direct-link="https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=linux&amp;lang=ja"
+           data-link-type="download"
+           data-display-name="Linux 32-bit"
+           data-download-version="linux"
+           data-download-os="Desktop"
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+      <li class="os_android">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org"
+           data-link-type="download"
+           data-display-name="Android"
+           data-download-version="android"
+           data-download-os="Android"
+           
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+      <li class="os_ios">
+        <a class="download-link button mzp-t-secondary mzp-t-small mzp-c-button mzp-t-product"
+           href="https://itunes.apple.com/us/app/apple-store/id989804926?pt=373246&amp;mt=8"
+           data-link-type="download"
+           data-display-name="iOS"
+           data-download-version="ios"
+           data-download-os="iOS"
+           
+           data-download-location="nav">
+          <strong class="download-title">
+            
+              Firefox をダウンロード
+            
+          </strong>
+        </a>
+      </li>
+    
+  </ul>
+  <small class="fx-privacy-link mzp-c-button-download-privacy-link">
+    
+      
+    
+    <a href="/ja/privacy/firefox/">Firefox プライバシー</a>
+  </small>
+</div>
+          <div class="c-navigation-fxa-cta-container">
+            <a class="c-navigation-fxa-cta mzp-c-button mzp-t-secondary mzp-t-small mzp-t-product" 
+  
+
+  
+    
+  
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+  href="https://accounts.firefox.com/signup?service=sync&amp;context=fx_desktop_v3&amp;entrypoint=mozilla.org-globalnav&amp;utm_content=get-firefox-account&amp;utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=globalnav" data-mozillaonline-link="https://accounts.firefox.com.cn/signup?service=sync&amp;context=fx_desktop_v3&amp;entrypoint=mozilla.org-globalnav&amp;utm_content=get-firefox-account&amp;utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=globalnav" data-button-name="Get a Firefox Account" data-link-type="button" data-cta-position="secondary cta" data-alt-href="/ja/firefox/accounts/">
+              Firefox アカウントを取得
+            </a>
+            <p class="c-navigation-fxa-cta-small-link"><a data-link-type="nav" data-link-name="Check out the Benefits" href="/ja/firefox/accounts/">Check out the Benefits</a></p>
+          </div>
+        </div>
+        
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+            <ul class="mzp-c-menu-category-list">
+              <li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="mzp-c-menu-title" href="/ja/firefox/" aria-haspopup="true" aria-controls="mzp-c-menu-panel-firefox">Firefox</a>
+  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-firefox">
+    <div class="mzp-c-menu-panel-container">
+      <button class="mzp-c-menu-button-close" type="button" aria-controls="mzp-c-menu-panel-firefox">Firefox メニューを閉じる</button>
+      <div class="mzp-c-menu-panel-content">
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/firefox/" data-link-name="Firefox Quantum Desktop Browser" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/firefox.3a7f6cda231d.png" class="mzp-c-menu-item-icon" width="24" height="24" alt="">
+                <h4 class="mzp-c-menu-item-title">Firefox Quantum デスクトップブラウザー</h4>
+                <p class="mzp-c-menu-item-desc">Windows や macOS、Linux で動作する強力なブラウザを入手してください。</p>
+              </a>
+              <ul class="mzp-c-menu-item-list">
+                <li><a href="/ja/firefox/new/" data-link-name="Download" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">ダウンロード</a></li>
+                <li><a href="/ja/firefox/" data-link-name="New Features" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">新機能</a></li>
+                <li><a href="https://addons.mozilla.org/firefox/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Extensions" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">拡張機能</a></li>
+                <li><a href="https://support.mozilla.org/products/firefox/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Support" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">サポート</a></li>
+                <li><a href="/ja/privacy/firefox/" data-link-name="Privacy" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">プライバシー</a></li>
+              </ul>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/firefox/mobile/" data-link-name="Firefox Mobile Browsers" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 1h10a3 3 0 0 1 3 3v16a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3zm0 2a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H7zm3 16a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2h-4z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Firefox モバイルブラウザー</h4>
+                <p class="mzp-c-menu-item-desc">Firefox と Firefox Focus を持ち歩こう。Android 版と iOS 版があります。</p>
+              </a>
+              <ul class="mzp-c-menu-item-list">
+                <li><a href="/ja/firefox/mobile/" data-link-name="Get Firefox" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">Firefox をダウンロード</a></li>
+                <li><a href="/ja/firefox/mobile/" data-link-name="Get Firefox Focus" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">Firefox Focus をダウンロード</a></li>
+                <li><a href="/ja/firefox/mobile/" data-link-name="New Features" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">新機能</a></li>
+                <li><a href="https://addons.mozilla.org/android/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Android Extensions" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">Android 版の拡張機能</a></li>
+                <li><a href="https://support.mozilla.org/products/ios/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="iOS Support" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">iOS 版のサポート</a></li>
+                <li><a href="https://support.mozilla.org/products/mobile/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Android Support" data-link-type="nav" data-link-position="subnav" data-link-group="firefox">Android 版のサポート</a></li>
+              </ul>
+            </section>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://getpocket.com/firefox_learnmore/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Pocket by Firefox" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="mzp-c-menu-item-icon" width="24" height="22" xmlns="http://www.w3.org/2000/svg"><path d="M12 21.5c-6.627 0-12-5.373-12-12v-6a3 3 0 0 1 3-3h18a3 3 0 0 1 3 3v6c0 6.627-5.373 12-12 12zm5.977-15.048a1.485 1.485 0 0 0-1.087.479l-4.923 4.924-4.835-4.851A1.476 1.476 0 0 0 6 6.452a1.5 1.5 0 0 0-1.071 2.55l-.024.016 4.94 4.96 1.06 1.06a1.5 1.5 0 0 0 2.121 0l1.06-1.06 4.964-4.96a1.5 1.5 0 0 0-1.073-2.566z" fill="#FF4056" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Pocket by Firefox</h4>
+                <p class="mzp-c-menu-item-desc">コンテンツを保存し、知識を身に着けましょう。</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/firefox/accounts/" data-link-name="Your Firefox Account" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M21 21a1 1 0 0 1-2 0v-2a3 3 0 0 0-3-3H8a3 3 0 0 0-3 3v2a1 1 0 0 1-2 0v-2a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v2zm-9-9a5 5 0 1 1 0-10 5 5 0 0 1 0 10zm0-2a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">あなたの Firefox アカウント</h4>
+                <p class="mzp-c-menu-item-desc">お持ちのすべての端末で Firefox の経験を最大限に活かしてください。</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/firefox/enterprise/" data-link-name="Firefox for Enterprise" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M20.289 15.5a1 1 0 0 1 1.842.78A11 11 0 1 1 7.6 1.912a1 1 0 0 1 .8 1.834A9 9 0 1 0 20.289 15.5zM23 12a1 1 0 0 1-1 1H12a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1 11 11 0 0 1 11 11zm-4.636-6.364A9 9 0 0 0 13 3.056V11h7.944a9 9 0 0 0-2.58-5.364z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">法人向け Firefox</h4>
+                <p class="mzp-c-menu-item-desc">Same speed and safety you trust, designed just for business.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://www.amazon.com/Mozilla-Firefox-for-Fire-TV/dp/B078B5YMPD" data-link-name="Firefox for Fire TV" data-link-type="nav" data-link-position="topnav" data-link-group="firefox">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M3 3h18a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3zm0 2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H3zm13.496 6.132a1 1 0 0 1 0 1.736l-7 4A1 1 0 0 1 8 16V8a1 1 0 0 1 1.496-.868l7 4zM10 9.723v4.554L13.984 12 10 9.723z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Fire TV 版 Firefox</h4>
+                <p class="mzp-c-menu-item-desc">Amazon Fire TV で動画鑑賞やインターネットのブラウジングができます。</p>
+              </a>
+            </section>
+          </li>
+        </ul>
+      </div>
+      <div class="mzp-c-menu-panel-card">
+        <section class="mzp-c-card mzp-c-card-extra-small mzp-has-aspect-3-2">
+          <a class="mzp-c-card-block-link" href="https://addons.mozilla.org/firefox/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-name="Add-ons" data-link-type="nav" data-link-position="card" data-link-group="firefox">
+            <div class="mzp-c-card-media-wrapper">
+              <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png" data-src="https://www.mozilla.org/media/img/nav/cards/add-ons.91437385d52f.png" alt="">
+              <noscript>
+                <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/add-ons.91437385d52f.png" alt="">
+              </noscript>
+            </div>
+            <div class="mzp-c-card-content">
+            <h2 class="mzp-c-card-title">アドオン</h2>
+            <p class="mzp-c-card-desc">Firefox の動作をカスタマイズする方法を学びましょう。</p>
+            </div>
+          </a>
+        </section>
+      </div>
+    </div><!-- close .mzp-c-menu-panel-container -->
+  </div><!-- close .mzp-c-menu-panel -->
+</li><!-- close firefox -->
+              <li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="mzp-c-menu-title" href="https://iot.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=projects" aria-haspopup="true" aria-controls="mzp-c-menu-panel-projects">プロジェクト</a>
+  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-projects">
+    <div class="mzp-c-menu-panel-container">
+      <button class="mzp-c-menu-button-close" type="button" aria-controls="mzp-c-menu-panel-projects">プロジェクトメニューを閉じる</button>
+      <div class="mzp-c-menu-panel-content">
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://voice.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=projects" data-link-name="Common Voice" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M13 19.945V23a1 1 0 0 1-2 0v-3.055C6.5 19.448 3 15.633 3 11a1 1 0 0 1 2 0 7 7 0 0 0 14 0 1 1 0 0 1 2 0c0 4.633-3.5 8.448-8 8.945zM12 0a5 5 0 0 1 5 5v6a5 5 0 0 1-10 0V5a5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Common Voice</h4>
+                <p class="mzp-c-menu-item-desc">Donate your voice to help make voice recognition open to everyone.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://mixedreality.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=projects" data-link-name="Firefox Reality" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M0 7c0-2.882 5.647-5 12-5s12 2.118 12 5v10h-2c0-.322-.803-.857-2.493-1.28-1.871-.468-4.52-.72-7.507-.72s-5.636.252-7.507.72C2.803 16.143 2 16.678 2 17H0V7zm22 0c0-.42-.911-1.18-2.601-1.814C17.416 4.443 14.759 4 12 4c-2.76 0-5.416.443-7.399 1.186C2.911 5.82 2 6.58 2 7v7.462C4.06 13.458 7.589 13 12 13s7.94.458 10 1.462V7zM9 22c-4.481 0-9-2.26-9-5V7c0-1.333 2-1.333 2 0 0 .313.735 1.071 1.97 1.727C5.45 9.513 7.29 10 9 10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1zM8 11.955c-2.214-.195-4.455-1.009-6-2.088V17c0 1.14 2.85 2.673 6 2.955v-8zM15 22a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1c1.71 0 3.55-.487 5.03-1.273C21.266 8.07 22 7.313 22 7c0-1.333 2-1.333 2 0v10c0 2.74-4.519 5-9 5zm1-10.045v8c3.15-.282 6-1.815 6-2.955V9.867c-1.545 1.08-3.786 1.893-6 2.088z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Firefox Reality</h4>
+                <p class="mzp-c-menu-item-desc">Firefox で拡張仮想現実を体験してください。</p>
+              </a>
+            </section>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://iot.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=projects" data-link-name="Web of Things (IoT)" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M3.055 13a9.008 9.008 0 0 0 6.671 7.71A16.331 16.331 0 0 1 7.053 13H3.055zm0-2H7.05a16.3 16.3 0 0 1 2.676-7.71A9.008 9.008 0 0 0 3.055 11zm17.89 0a9.008 9.008 0 0 0-6.671-7.71A16.331 16.331 0 0 1 16.947 11h3.998zm0 2H16.95a16.3 16.3 0 0 1-2.676 7.71A9.008 9.008 0 0 0 20.945 13zm-11.89-2h5.887A14.3 14.3 0 0 0 12 3.55 14.288 14.288 0 0 0 9.055 11zm5.89 2H9.058A14.3 14.3 0 0 0 12 20.45 14.288 14.288 0 0 0 14.945 13zM12 23C5.925 23 1 18.075 1 12S5.925 1 12 1s11 4.925 11 11-4.925 11-11 11z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Web of Things (IoT)</h4>
+                <p class="mzp-c-menu-item-desc">Make devices connected to the internet safe, secure and interoperable.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://hubs.mozilla.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=projects" data-link-name="Hubs" data-link-type="nav" data-link-position="topnav" data-link-group="projects">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M13 21.387l7.445-3.723A1 1 0 0 0 21 16.77V7.618l-8 4v9.769zm-2 .005v-9.774l-8-4v9.149c-.003.38.21.729.547.899L11 21.392zm8.759-15.39l-7.315-3.657a.999.999 0 0 0-.887 0L4.241 6.001 12 9.882l7.759-3.88zM13.335.555l8 4A3 3 0 0 1 23 7.24v9.53a3 3 0 0 1-1.663 2.684l-8 4a3 3 0 0 1-2.684 0L2.65 19.453A2.997 2.997 0 0 1 1 16.76V7.24a3 3 0 0 1 1.663-2.684L10.665.554a3 3 0 0 1 2.67 0z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Hubs</h4>
+                <p class="mzp-c-menu-item-desc">Meet people in experimental Mixed Reality chatrooms with Firefox.</p>
+              </a>
+            </section>
+          </li>
+        </ul>
+      </div>
+      <div class="mzp-c-menu-panel-card">
+        <section class="mzp-c-card mzp-c-card-extra-small mzp-has-aspect-3-2">
+          <a class="mzp-c-card-block-link" href="https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtual-reality/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=projects" data-link-name="Mozilla WebVR" data-link-type="nav" data-link-position="card" data-link-group="projects">
+            <div class="mzp-c-card-media-wrapper">
+              <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png" data-src="https://www.mozilla.org/media/img/nav/cards/firefox-reality.7c9245a63776.png" alt="">
+              <noscript>
+                <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/firefox-reality.7c9245a63776.png" alt="">
+              </noscript>
+            </div>
+            <div class="mzp-c-card-content">
+            <h2 class="mzp-c-card-title">Mozilla WebVR</h2>
+            <p class="mzp-c-card-desc">Mozilla が Firefox を拡張仮想現実へと導きます。</p>
+            </div>
+          </a>
+        </section>
+      </div>
+    </div><!-- close .mzp-c-menu-panel-container -->
+  </div><!-- close .mzp-c-menu-panel -->
+</li><!-- close projects -->
+              <li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="mzp-c-menu-title" href="/ja/developer/" aria-haspopup="true" aria-controls="mzp-c-menu-panel-developers">開発者</a>
+  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-developers">
+    <div class="mzp-c-menu-panel-container">
+      <button class="mzp-c-menu-button-close" type="button" aria-controls="mzp-c-menu-panel-developers">開発者メニューを閉じる</button>
+      <div class="mzp-c-menu-panel-content">
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/firefox/developer/" data-link-name="Firefox Developer Edition" data-link-type="nav" data-link-position="topnav" data-link-group="developers">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/developer.37e642934cce.png" class="mzp-c-menu-item-icon" width="24" height="24" alt="">
+                <h4 class="mzp-c-menu-item-title">Firefox Developer Edition</h4>
+                <p class="mzp-c-menu-item-desc">開発者のためだけに構築された Firefox。</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/firefox/channel/desktop/#beta" data-link-name="Firefox Beta" data-link-type="nav" data-link-position="topnav" data-link-group="developers">
+                <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/beta.dedbae9260da.png" class="mzp-c-menu-item-icon" width="24" height="24" alt="">
+                <h4 class="mzp-c-menu-item-title">Firefox Beta</h4>
+                <p class="mzp-c-menu-item-desc">リリース直前の機能を最も安定したプレリリース版ビルドでテストできます。</p>
+              </a>
+            </section>
+          </li>
+          <li>
+              <section class="mzp-c-menu-item mzp-has-icon">
+                <a class="mzp-c-menu-item-link" href="/ja/firefox/channel/desktop/#nightly" data-link-name="Firefox Nightly" data-link-type="nav" data-link-position="topnav" data-link-group="developers">
+                  <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/nightly.392751dc0d65.png" class="mzp-c-menu-item-icon" width="24" height="24" alt="">
+                  <h4 class="mzp-c-menu-item-title">Firefox Nightly</h4>
+                  <p class="mzp-c-menu-item-desc">最新の Firefox ビルドをプレビューして最高の仕上がりにするための手助けをしてください。</p>
+                </a>
+              </section>
+            </li>
+        </ul>
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+                <a class="mzp-c-menu-item-link" href="/ja/developer/" data-link-name="Developer Innovations" data-link-type="nav" data-link-position="topnav" data-link-group="developers">
+                  <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M2.382 8H1a1 1 0 0 1-.857-1.514C3.013 1.7 7.079-.154 11.403.512 14.755 1.028 18 3.19 18 5c0 .83.097.955.98 1.286.349.13 2.105.688 2.336.765 1.888.63 2.548 2.23 2.165 4.145-.262 1.308-1.04 2.777-1.774 3.511-.901.902-1.592.902-3.377.49-.611-.141-.957-.197-1.33-.197-2.657 0-4 2.15-4 7a1 1 0 0 1-1 1c-2.897 0-5.77-1.077-8.6-3.2a1 1 0 0 1-.294-1.247L4.382 16H3a1 1 0 0 1-.894-1.447L3.382 12H2a1 1 0 0 1-.894-1.447L2.382 8zm8.64 12.95C11.255 15.803 13.239 13 17 13c.564 0 1.03.075 1.78.248 1.103.254 1.303.254 1.513.045.453-.453 1.042-1.565 1.226-2.49.204-1.017-.03-1.586-.835-1.854-.186-.062-2.001-.639-2.405-.79C16.652 7.549 16 6.71 16 5c0-.524-2.406-2.128-4.902-2.512-3.051-.47-5.905.58-8.204 3.512H4a1 1 0 0 1 .894 1.447L3.618 10H5a1 1 0 0 1 .894 1.447L4.618 14H6a1 1 0 0 1 .894 1.447l-1.618 3.237c1.937 1.324 3.85 2.075 5.747 2.267z" fill="#000" fill-rule="nonzero"/></svg>
+                  <h4 class="mzp-c-menu-item-title">開発者による革新</h4>
+                  <p class="mzp-c-menu-item-desc">インターネットをすべての人に開かれ、アクセスできるようにするプロジェクト。</p>
+                </a>
+                <ul class="mzp-c-menu-item-list">
+                  <li><a href="https://research.mozilla.org/webassembly/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Web Assembly" data-link-type="nav" data-link-position="subnav" data-link-group="developers">Web Assembly</a></li>
+                  <li><a href="https://research.mozilla.org/rust/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Rust" data-link-type="nav" data-link-position="subnav" data-link-group="developers">Rust</a></li>
+                  <li><a href="https://games.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Gaming" data-link-type="nav" data-link-position="subnav" data-link-group="developers">ゲーム開発</a></li>
+                  <li><a href="https://mixedreality.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Mixed Reality" data-link-type="nav" data-link-position="subnav" data-link-group="developers">複合現実</a></li>
+                </ul>
+              </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+                <a class="mzp-c-menu-item-link" href="https://developer.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Resources" data-link-type="nav" data-link-position="topnav" data-link-group="developers">
+                  <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><g fill="#000" fill-rule="nonzero"><path d="M11.553 1.106a1 1 0 0 1 .894 0l10 5a1 1 0 0 1 0 1.788l-10 5a1 1 0 0 1-.894 0l-10-5a1 1 0 0 1 0-1.788l10-5zM12 3.118L4.236 7 12 10.882 19.764 7 12 3.118zM12 20.882l9.553-4.776a1 1 0 0 1 .894 1.788l-10 5a1 1 0 0 1-.894 0l-10-5a1 1 0 0 1 .894-1.788L12 20.882z"/><path d="M21.553 11.106a1 1 0 0 1 .894 1.788l-10 5a1 1 0 0 1-.894 0l-10-5a1 1 0 0 1 .894-1.788L12 15.882l9.553-4.776z"/></g></svg>
+                  <h4 class="mzp-c-menu-item-title">リソース</h4>
+                  <p class="mzp-c-menu-item-desc">開発者による開発者のためのリソース。</p>
+                </a>
+                <ul class="mzp-c-menu-item-list">
+                  <li><a href="https://developer.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="MDN Web Docs" data-link-type="nav" data-link-position="subnav" data-link-group="developers">MDN Web Docs</a></li>
+                  <li><a href="https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Firefox Playground" data-link-type="nav" data-link-position="subnav" data-link-group="developers">Firefox Playground</a></li>
+                  <li><a href="/ja/developer/css-grid/" data-link-name="CSS Grid" data-link-type="nav" data-link-position="subnav" data-link-group="developers">CSS グリッド</a></li>
+                  <li><a href="https://hacks.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=developers" data-link-name="Developer Blog" data-link-type="nav" data-link-position="subnav" data-link-group="developers">開発者ブログ</a></li>
+                  <li><a href="/ja/moss/" data-link-name="Mozilla Open Source Support (MOSS)" data-link-type="nav" data-link-position="subnav" data-link-group="developers">Mozilla Open Source Support (MOSS)</a></li>
+                </ul>
+              </section>
+          </li>
+        </ul>
+      </div>
+      <div class="mzp-c-menu-panel-card">
+        <section class="mzp-c-card mzp-c-card-extra-small mzp-has-aspect-3-2">
+          <a class="mzp-c-card-block-link" href="/ja/firefox/developer/" data-link-name="Firefox Developer Edition" data-link-type="nav" data-link-position="card" data-link-group="developers">
+            <div class="mzp-c-card-media-wrapper">
+              <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png" data-src="https://www.mozilla.org/media/img/nav/cards/developer-edition.22ebe03a399c.png" alt="">
+              <noscript>
+                <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/developer-edition.22ebe03a399c.png" alt="">
+              </noscript>
+            </div>
+            <div class="mzp-c-card-content">
+            <h2 class="mzp-c-card-title">Firefox Developer Edition</h2>
+            <p class="mzp-c-card-desc">開発者のためだけに作られた唯一のブラウザーで、サイトの制作や動作確認を簡単に。</p>
+            </div>
+          </a>
+        </section>
+      </div>
+    </div><!-- close .mzp-c-menu-panel-container -->
+  </div><!-- close .mzp-c-menu-panel -->
+</li><!-- close developers -->
+              <li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="mzp-c-menu-title" href="/ja/about/" aria-haspopup="true" aria-controls="mzp-c-menu-panel-about">組織概要</a>
+  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-about">
+    <div class="mzp-c-menu-panel-container">
+      <button class="mzp-c-menu-button-close" type="button" aria-controls="mzp-c-menu-panel-about">組織概要メニューを閉じる</button>
+      <div class="mzp-c-menu-panel-content">
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/about/" data-link-name="Mozilla" data-link-type="nav" data-link-position="topnav" data-link-group="about">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M6 6.706V6H2v2h2v8H2v2h7v-2H6v-6c.667-1.333 1.5-2 2.5-2s1.833.667 2.5 2v8h5v-2h-3v-6c.667-1.333 1.5-2 2.5-2s1.833.667 2.5 2v8h4v-2h-2v-6c-.667-2.667-2.167-4-4.5-4-1.52 0-2.687.566-3.5 1.699C11.187 6.566 10.02 6 8.5 6c-.98 0-1.814.235-2.5.706zM8.5 4c1.324 0 2.507.327 3.5.97.993-.643 2.176-.97 3.5-.97 3.308 0 5.563 2.004 6.44 5.515l.06.239V14h2v6H0v-6h2v-4H0V4h8c.164.005.331 0 .5 0zM16 14v-3.484a1.845 1.845 0 0 0-.374-.454c-.068-.055-.088-.062-.126-.062-.038 0-.058.007-.126.062-.111.09-.239.239-.374.454V14h1zm-7 0v-3.484a1.845 1.845 0 0 0-.374-.454C8.558 10.007 8.538 10 8.5 10c-.038 0-.058.007-.126.062-.111.09-.239.239-.374.454V14h1z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">Mozilla</h4>
+                <p class="mzp-c-menu-item-desc">利益よりも人々を優先するテクノロジー企業に出会おう。</p>
+              </a>
+              <ul class="mzp-c-menu-item-list">
+                <li><a href="/ja/about/" data-link-name="About" data-link-type="nav" data-link-position="subnav" data-link-group="about">組織概要</a></li>
+                <li><a href="/ja/about/leadership/" data-link-name="Leadership" data-link-type="nav" data-link-position="subnav" data-link-group="about">リーダーシップ</a></li>
+                <li><a href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=about" data-link-name="Mozilla Foundation" data-link-type="nav" data-link-position="subnav" data-link-group="about">Mozilla Foundation</a></li>
+                <li><a href="/ja/mission/" data-link-name="Mission" data-link-type="nav" data-link-position="subnav" data-link-group="about">ミッション</a></li>
+                <li><a href="https://blog.mozilla.org/press/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=about" data-link-name="Press Center" data-link-type="nav" data-link-position="subnav" data-link-group="about">プレスセンター</a></li>
+                <li><a href="/ja/contact/" data-link-name="Contact" data-link-type="nav" data-link-position="subnav" data-link-group="about">お問い合わせ</a></li>
+              </ul>
+            </section>
+          </li>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="https://careers.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=about" data-link-name="Careers" data-link-type="nav" data-link-position="topnav" data-link-group="about">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M10.95 21.02H8.772L6.11 22.796A2 2 0 0 1 3 21.13v-4.596a2 2 0 0 1 .89-1.664L7 12.798V9.52a10 10 0 0 1 1.264-4.866l1.989-3.571a2 2 0 0 1 3.494 0l1.99 3.571A10 10 0 0 1 17 9.52v3.28l3.11 2.072a2 2 0 0 1 .89 1.664v4.596a2 2 0 0 1-3.11 1.665l-2.662-1.776H12.95V23a1 1 0 0 1-2 0v-1.98zm2-2H15v-9.5a8 8 0 0 0-1.01-3.894L12 2.056l-1.99 3.57A8 8 0 0 0 9 9.52v9.501h1.95V17a1 1 0 1 1 2 0v2.02zM7 15.202l-2 1.333v4.596l2-1.333v-4.596zm10 4.596l2 1.333v-4.596l-2-1.333v4.596zM12 10a1 1 0 1 1 0-2 1 1 0 0 1 0 2z" fill="#000" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">採用情報</h4>
+                <p class="mzp-c-menu-item-desc">目的主導の製品を構築するミッション主導の組織のために働きましょう。</p>
+              </a>
+            </section>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <section class="mzp-c-menu-item mzp-has-icon">
+              <a class="mzp-c-menu-item-link" href="/ja/contribute/" data-link-name="Get Involved" data-link-type="nav" data-link-position="topnav" data-link-group="about">
+                <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M17.804 22.307a4.816 4.816 0 0 0-.998-.251c-.15-.416-.295-.815-.436-1.196 1.44-1.234 3.63-3.839 3.63-6.784 0-2.438-2.13-4.234-6.388-5.388-2.406-.422-4.34.585-5.802 3.023-2.194 3.657-6.875.708-3.218 5.827 2.824 3.954 7.123 4.542 9.451 4.313l.101.475c-.806.31-1.501.843-2.086 1.597-3.155-.33-6.817-2.035-9.094-5.222-2.467-3.454-2.33-5.695.775-6.642-.016.005.61-.18.775-.233.246-.08.444-.16.62-.248.406-.205.707-.473.96-.896 1.87-3.115 4.6-4.537 7.864-3.964l.177.04C19.163 8.12 22 10.513 22 14.076c0 3.146-2.023 6.387-4.196 8.23zm.475-1.942c1.65.562 3.058 1.774 4.221 3.635H20c-1-1.333-2.333-2-4-2-1.667 0-3 .667-4 2H9.5c.732-1.17 1.56-2.085 2.485-2.742l-.292-1.07c-1.592-.358-2.743-1.462-3.179-3.203-.63-2.524.455-4.78 2.895-6.491a2.5 2.5 0 0 1 3.891 1.568c.992-.01 1.914.53 2.398 1.498.637 1.275.28 2.227-.723 3.324l.041.085.068.152c.34.85.739 1.931 1.195 3.244zm-4.552-.002A7.024 7.024 0 0 1 16.051 20c-.3-.802-.575-1.514-.824-2.136-.454-.91-.454-1.591 0-2.046.682-.682.854-1.02.682-1.363-.172-.345-.682-.682-1.364 0-.404.404-.809-.271-1.213-2.026a.5.5 0 0 0-.774-.298c-1.813 1.271-2.514 2.728-2.103 4.369.333 1.334 1.278 1.934 2.834 1.8l.438 2.063zM17.5 24h2-2zm-4.768 0H14.5h-1.768zM3.5 5c0-.685.187-1.309.605-1.823.133-.164.268-.297.409-.409C4.738 1.075 6.162 0 8 0c2.037 0 3.66.964 4.11 3.085.095.446.118.9.071 1.344L14 8.018c-1.333-.012-2.5.149-3.5.482-1 .333-2 1-3 2L6.366 8.018C4.708 7.725 3.5 6.865 3.5 5zm4.26 1.14L9 8.5l2.5-1-1.41-2.81c.123-.368.151-.777.064-1.19C9.9 2.316 9 2 8 2s-1.625.501-1.5 1.5c.125 1-1 .343-1 1.5 0 .86 1.297 1.124 2.26 1.14z" fill="#020202" fill-rule="nonzero"/></svg>
+                <h4 class="mzp-c-menu-item-title">参加する</h4>
+                <p class="mzp-c-menu-item-desc">健全なインターネットのための戦いに参加しましょう。</p>
+              </a>
+              <ul class="mzp-c-menu-item-list">
+                <li><a href="https://events.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=about" data-link-name="Events" data-link-type="nav" data-link-position="subnav" data-link-group="about">イベント</a></li>
+                <li><a href="https://donate.mozilla.org/ja/?presets=2240,1120,560,340&amp;amount=1120&amp;utm_source=mozilla.org&amp;utm_medium=referral&amp;utm_content=nav&amp;currency=jpy" data-link-name="Donate" data-link-type="nav" data-link-position="subnav" data-link-group="about">寄付する</a></li>
+              </ul>
+            </section>
+          </li>
+        </ul>
+      </div>
+      <div class="mzp-c-menu-panel-card">
+        <section class="mzp-c-card mzp-c-card-extra-small mzp-has-aspect-3-2">
+          <a class="mzp-c-card-block-link" href="/ja/about/manifesto/" data-link-name="Mozilla Manifesto" data-link-type="nav" data-link-position="card" data-link-group="about">
+            <div class="mzp-c-card-media-wrapper">
+              <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png" data-src="https://www.mozilla.org/media/img/nav/cards/manifesto.97bc84fbcdf7.png" data-srcset="https://www.mozilla.org/media/img/nav/cards/manifesto-high-res.ff5ff6c2ec3c.png" alt="">
+              <noscript>
+                <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/manifesto.97bc84fbcdf7.png" alt="">
+              </noscript>
+            </div>
+            <div class="mzp-c-card-content">
+            <h2 class="mzp-c-card-title">Mozilla マニフェスト</h2>
+            <p class="mzp-c-card-desc">インターネット上のセキュリティとプライバシーに対するあなたの権利は基本的なものであり、決して他人任せのものではありません。</p>
+            </div>
+          </a>
+        </section>
+      </div>
+    </div><!-- close .mzp-c-menu-panel-container -->
+  </div><!-- close .mzp-c-menu-panel -->
+</li><!-- close about -->
+            </ul>
+          </nav>
+        </div><!-- close .mzp-c-navigation-menu -->
+      </div><!-- close .mzp-c-navigation-items -->
+    </div><!-- close .mzp-c-navigation-container -->
+  </div><!-- close .mzp-c-navigation-l-content -->
+</div><!-- close .mzp-c-navigation -->
+  
+
+  <div id="outer-wrapper">
+    
+<article class="section-content mzp-l-content mzp-t-firefox" itemtype="http://schema.org/Article">
+  <header class="l-narrow">
+    <div class="policy-title">
+      <h1 itemprop="name"><span class="privacy-header-firefox">Firefox</span> <span class="privacy-header-policy">のプライバシーに関する通知</span></h1>
+      <time datetime="2017-09-28" itemprop="dateModified">有効日 2017 年 9 月 28 日</time>
+    </div>
+
+    <div class="privacy-lead-in">
+      <h2>Mozilla は、プライバシーが健全なインターネットの基盤であると信じています。</h2>
+<p>そのため Mozilla では、あなたがオンライン上で共有する情報および Mozilla と共有する情報をより広範囲に制御できるよう、Firefox をはじめとするすべての製品を設計しています。Mozilla は、すべてのユーザーのために Firefox を改善することを目的として、必要な情報だけを収集するよう努力しています。</p>
+<p>本プライバシーに関する通知では、Firefox を通じて共有するデータについて説明するとともに、共有するデータの量がより少なくなるような設定を紹介しています。また Mozilla では、Firefox から収集した情報をどのように受信、処理、および共有するかに関し、Mozilla の <a href="/privacy/">プライバシーポリシー</a> に記載されている慣行に従っています。</p>
+
+    </div>
+  </header>
+
+  <main class="privacy-body" itemprop="articleBody">
+    <div class="l-narrow">
+    
+    
+      <section id="firefox_1"><h2>Firefox は、以下の目的でデータを共有するよう初期設定されています。</h2>
+<section id="health-report"><h3>すべてのユーザーのためにパフォーマンスと安全性を向上する</h3>
+<ul>
+<li>
+<p><strong>インタラクションデータ</strong>: Firefox は、あなたの Firefox とのインタラクション (開いているタブやウィンドウの数、訪問したウェブページの数、インストールされている Firefox アドオンの数や種類、セッションの長さなど)、および Mozilla または Mozilla のパートナーにより提供された Firefox 機能とのインタラクション (Firefox 検索機能とのインタラクションや検索パートナーの参照など) に関するデータを Mozilla に送信します。</p>
+</li>
+<li>
+<p><strong>技術情報</strong>: Firefox は、お使いの Firefox のバージョンおよび言語、端末のオペレーティングシステムとハードウェア構成、メモリー、クラッシュやエラーに関する基本的な情報、更新、セーフブラウジング、アクティベーションなどの自動化プロセスの結果を Mozilla に送信します。Firefox が Mozilla にデータを送信する際には、Mozilla のサーバーログの一部として、あなたの IP アドレスが一時的に収集されます。</p>
+</li>
+</ul>
+<p id="telemetry"><a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html">デスクトップ</a>、<a href="https://firefox-source-docs.mozilla.org/mobile/android/fennec/index.html">Android</a>、または <a href="https://github.com/mozilla-mobile/firefox-ios/wiki/Telemetry">iOS</a> 用のパフォーマンス情報の送信に関するドキュメントをお読みください。あるいは、このデータ収集をオプトアウトする方法については <a href="https://support.mozilla.org/kb/send-performance-data-improve-firefox">こちら</a> をご覧ください。</p>
+</section><section id="defaultsearch"><h3>既定の検索プロバイダーを設定する</h3>
+<ul>
+<li><strong>位置情報</strong>: Firefox の初回使用時には、あなたの国に基づいてあなたの検索プロバイダーを初期設定するために、あなたの IP アドレスが使用されます。<a href="https://support.mozilla.org/kb/change-your-default-search-settings-firefox">詳細はこちら</a>。</li>
+</ul>
+</section><section id="_1"><h3>関連コンテンツを推薦する</h3>
+<p>Firefox は、“スニペット” (Mozilla からのメッセージ)、上位サイト (Firefox を初めて使用するユーザーのために Mozilla により推奨されるウェブサイト)、Pocket レコメンデーションなどのコンテンツを表示します。</p>
+<ul>
+<li>
+<p><strong>位置情報</strong>: Firefox は、あなたの国に基づいて関連コンテンツを推薦するために、あなたの IP アドレスを使用します。</p>
+</li>
+<li>
+<p><strong>技術・インタラクションデータ</strong>: Firefox は、Mozilla がお勧めコンテンツの位置、サイズ、配置などのデータや、あなたの Firefox 推薦コンテンツとのインタラクションに関する基本データを Mozilla に送信します。これには、推薦コンテンツが表示またはクリックされた回数が含まれます。</p>
+</li>
+<li>
+<p id="snippets"><strong>スニペットのウェブページデータ</strong>: あなたがスニペットのリンクをクリックするとき、Mozilla はあなたがフォローしたリンクに関するデータを受信することがあります。この情報は、あなたに関する他のどの情報にも関連付けられていません。<a href="https://abouthome-snippets-service.readthedocs.io/en/latest/data_collection.html">詳細はこちら</a>。</p>
+</li>
+<li>
+<p><strong>Pocket レコメンデーションのウェブページデータ</strong>: Mozilla は、あなたのブラウジング履歴に基づき、あなたにコンテンツを推奨します。あなたの画面に表示されるストーリーの決定プロセスは、お持ちの Firefox 内でのみ行われ、Mozilla および Pocket があなたのブラウジング履歴のコピーを受け取ることはありません。ただし、あなたが表示およびクリックしたレコメンデーションに関するデータは Mozilla に送信されます。<a href="https://help.getpocket.com/article/1142-firefox-new-tab-recommendations">詳細はこちら</a>.</p>
+</li>
+</ul>
+</section><section id="security"><h3>すべてのユーザーのためにセキュリティを強化する</h3>
+<ul>
+<li>
+<p id="auto-updates"><strong>更新用の技術情報</strong>: デスクトップ版の Firefox は、Mozilla のサーバーに接続して、ブラウザーの更新の有無を定期的に確認します。正しい更新を適用するために、お使いの Firefox のバージョン、言語、端末のオペレーティングシステムが使用されます。モバイル版の Firefox は、その Firefox のダウンロードおよびインストールに別のサービスが利用された場合、当該サービスに接続することがあります。<a href="https://support.mozilla.org/kb/how-stop-firefox-automatically-making-connections#w_auto-update-checking">詳細はこちら</a>。</p>
+</li>
+<li>
+<p><strong>アドオンブロックリスト用の技術情報</strong>: デスクトップ版および Android 版の Firefox は、あなたおよび他の人々を悪意のあるアドオンから守るために、Mozilla に定期的に接続します。アドオンブロックリストを適用および更新するには、お使いの Firefox のバージョンと言語、端末のオペレーティングシステム、およびインストールされているアドオンのリストが必要です。<a href="https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections">詳細はこちら</a>。</p>
+</li>
+<li>
+<p><strong>Google のセーフブラウジングサービスへのウェブページおよび技術情報</strong>: Firefox は、あなたを悪意のあるダウンロードから守るために、認識されなかったダウンロードに関する基本的な情報を Google のセーフブラウジングサービスに送信します。これには、ファイル名やダウンロード元の URL が含まれます。</p>
+<p><a href="https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work">こちら</a> で詳細をご覧になるか、<a href="https://www.google.com/policies/privacy/">Google のプライバシーポリシー</a> をお読みください。オプトアウトすると、違法または悪意があるかもしれないウェブサイトやダウンロードファイルに関する Firefox からの警告が表示されなくなります。</p>
+</li>
+<li>
+<p><strong>認証局へのウェブページおよび技術情報</strong>: あなたが安全なウェブサイト (通常、URL が「HTTPS」から始まるサイト) を訪問するとき、Firefox はそのウェブサイトの <a href="https://support.mozilla.org/kb/secure-website-certificate">証明書</a> を検証します。この検証は、Firefox がそのウェブサイトの特定の情報を、そのウェブサイトに関係している認証局に送信することによって行われます。</p>
+<p>オプトアウトすると、あなたの個人情報が傍受される危険性が高くなります。<a href="https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab">詳細はこちら</a>。</p>
+</li>
+</ul>
+</section><section id="crash-reporter"><h3>クラッシュレポート</h3>
+<p>デスクトップ版の Firefox の初期設定により、Mozilla はクラッシュに関するより詳細な情報を Mozilla に提供していただくようあなたにお願いしますが、あなたはいつでもこれを拒否できます。</p>
+<ul>
+<li>
+<p><strong>注意を要する情報</strong>: クラッシュレポートには、クラッシュ時における Firefox のメモリーコンテンツである「ダンプファイル」が含まれます。このファイルには、あなたを識別するデータ、またはあなたにとって機密情報であるデータが含まれている可能性があります。</p>
+</li>
+<li>
+<p><strong>ウェブページデータ</strong>: クラッシュレポートには、クラッシュ時のアクティブな URL が含まれます。</p>
+</li>
+<li>
+<p><strong>技術情報</strong>: クラッシュレポートには、Firefox がクラッシュした理由、およびクラッシュ時における端末のメモリーと実行の状態が含まれます。</p>
+</li>
+</ul>
+<p><a href="https://firefox-source-docs.mozilla.org/toolkit/crashreporter/crashreporter/index.html">こちら</a> の完全なドキュメントをお読みください。</p>
+</section><section id="mozilla_1"><h3>Mozilla のマーケティングを測定および支援する</h3>
+<ul>
+<li>
+<p id="referraltracking"><strong>キャンペーンおよび参照データ</strong>: これは、Mozilla のマーケティングキャンペーンの有効性を理解するのに役立ちます。</p>
+<p><em>デスクトップの場合</em>: Firefox は初期設定で、Firefox のインストーラに含まれている可能性がある Mozilla の HTTP データを送信します。これにより、Mozilla は、Mozilla のダウンロードページをあなたに紹介したウェブサイトドメインまたは広告キャンペーン (存在する場合) を判断できます。こちらの <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/environment.html#attribution">ドキュメント</a> をお読みください。または、インストールの前に <a href="https://support.mozilla.org/kb/desktop-privacy">オプトアウト</a> してください。</p>
+<p id="thirdparty"><em>iOS および Android の場合</em>: Firefox は初期設定で、Mozilla の分析ベンダーである Adjust にモバイルキャンペーンデータを送信します。このベンダーには、独自の <a href="https://www.adjust.com/privacy_policy/">プライバシーポリシー</a> があります。モバイルキャンペーンデータには、Google の広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、オペレーティングシステム、およびアプリのバージョンが含まれます。こちらの <a href="https://firefox-source-docs.mozilla.org/mobile/android/fennec/adjust.html">ドキュメント</a> をお読みください。</p>
+</li>
+<li>
+<p><strong>技術・インタラクションデータ</strong>:</p>
+<p><em>iOS および Android の場合</em>: Firefox は初期設定で、あなたが Firefox で使用した機能に関するデータを、Mozilla のモバイルマーケティングベンダーである Leanplum に送信します。このベンダーには、独自の <a href="https://www.leanplum.com/privacy/">プライバシーポリシー</a> があります。このデータにより、Mozilla は様々な機能や体験をテストしたり、カスタマイズしたメッセージや推薦事項を提供したりして、あなたの Firefox の使い心地を改善できるようになります。</p>
+<p><a href="https://github.com/mozilla-mobile/firefox-ios/blob/master/MMA.md">iOS</a> 用または <a href="https://firefox-source-docs.mozilla.org/mobile/android/fennec/mma.html">Android</a> 用のドキュメントをお読みください。この機能を無効にする方法については <a href="https://support.mozilla.org/kb/send-anonymous-usage-data-firefox-mobile-devices">こちら</a>をご覧ください。</p>
+</li>
+</ul>
+<hr/>
+</section></section>
+    
+      <section id="optional-features"><h2>あなたが以下の機能を使用した場合、Firefox は機能を提供するためにデータを共有します。</h2>
+<section id="_2"><h3>検索</h3>
+<p>あなたは、ロケーションバー、検索バー、または新しいタブなど、Firefox のいくつかの場所から直接検索を実行できます。<em>Mozilla があなたの検索クエリーを受信することはありません。</em> クエリーデータはあなたの検索プロバイダーに送信され、そのプロバイダーには独自のプライバシーポリシーがあります。</p>
+<ul>
+<li>
+<p id="searchsuggestions"><strong>検索候補</strong>: Firefox は初期設定で、他の人々が検索した一般的な語句を見つけられるように、およびあなたの検索体験を向上させるために、検索クエリーをあなたの検索プロバイダーに送信します。あなたの検索プロバイダーが検索候補に対応していない場合、これらのデータは送信されません。</p>
+<p>この機能を無効にする方法などの <a href="https://support.mozilla.org/kb/use-popular-search-suggestions-firefox-search-bar">詳細はこちら</a>。</p>
+</li>
+</ul>
+</section><section id="firefox_2"><h3>Firefox アカウント</h3>
+<ul>
+<li>
+<p><strong>Firefox アカウントデータ</strong>: あなたが Firefox アカウントを作成するとき、Mozilla はあなたのメールアドレスおよびパスワードのハッシュを受信します。あなたは、名前またはプロファイル画像を含めるように指定できます。あなたのメールアドレスは、Mozilla のメールベンダーである SalesForce Marketing Cloud に送信されます。このベンダーには、独自の <a href="https://www.marketingcloud.com/privacy-policy/website-privacy-statement/">プライバシーポリシー</a> があります。あなたがご自分の Firefox アカウントを使用して他のウェブサイトまたはサービス (AMO や Pocket など) にログインする場合、Mozilla はそれらのサービスからあなたがログインしたときのタイムスタンプを受信します。</p>
+</li>
+<li>
+<p><strong>位置情報</strong>: セキュリティ上の理由により、Mozilla は、あなたのいる国および都市のおおよその位置を判断する目的で、あなたがお持ちの Firefox アカウントにアクセスしたときに使用した IP アドレスを保管します。Mozilla はこのデータを使用して、他の場所からのアカウントログインなど、不審なアクティビティが検出された場合に、あなたにメールによる通知を送信します。</p>
+</li>
+<li>
+<p><strong>インタラクションデータ</strong>: Mozilla は、Firefox アカウントウェブサイトやメニュー設定への訪問および操作、ならびにオンボーディング、メール、SMS メッセージの操作などのデータを受信します。Mozilla のウェブサイトやメールに関するデータの取り扱いについての <a href="/privacy/websites/">詳細はこちら</a>。</p>
+</li>
+<li>
+<p><strong>技術情報</strong>: あなたの Firefox アカウントと同期している端末を表示するため、および機能性を目的として、Mozilla はあなたの端末のオペレーティングシステム、ブラウザーとバージョン、タイムスタンプ、ロケール、およびあなたのアカウントに接続されている端末に関する同情報を保管します。</p>
+</li>
+</ul>
+<p>完全なドキュメントについては、<a href="https://github.com/mozilla/fxa-auth-server/blob/master/docs/metrics-events.md">こちら</a> をお読みください。また、アカウントの詳細については <a href="https://support.mozilla.org/kb/access-mozilla-services-firefox-accounts">こちら</a>、アカウントを削除する方法については <a href="https://support.mozilla.org/kb/how-do-i-delete-my-firefox-account">こちら</a> をご覧ください。</p>
+</section><section id="sync"><h3>同期</h3>
+<ul>
+<li>
+<p><strong>同期データ</strong>: あなたが同期を有効にした場合、Mozilla は、あなたが端末間で同期した情報を暗号化された形式で受信します。これには、Firefox のタブ、アドオン、パスワード、支払い用の自動記入情報、ブックマーク、履歴、および設定が含まれる場合があります。お持ちの Firefox アカウントを削除すると、関連する Firefox Sync コンテンツが削除されます。こちらの <a href="https://moz-services-docs.readthedocs.io/en/latest/sync/">ドキュメント</a> もお読みください。</p>
+</li>
+<li>
+<p><strong>技術およびインタラクションデータ</strong>: あなたが同期を有効にした場合、Firefox は Telemetry を使用して、同期が実行された日時、成功したか失敗したか、同期を試行した端末の種類など、あなたのデータに対する直近の同期試行に関する基本的な情報を定期的に送信します。こちらの <a href="https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/sync-ping.html">ドキュメント</a> もお読みください。</p>
+</li>
+</ul>
+<p>同期を有効または無効にする方法についての <a href="https://support.mozilla.org/kb/how-do-i-set-sync-my-computer">詳細はこちら</a>。</p>
+</section><section id="location-services"><h3>位置情報</h3>
+<ul>
+<li><strong>Google の位置情報サービスへの場所データ</strong>: Firefox は、あなたの場所を判断したり、あなたの場所を要求元のウェブサイト (たとえば、マップウェブサイトがルートを提供するためにあなたの場所を必要とする場合) と共有したりする前に、必ずあなたにその旨を尋ねます。場所を判断するために、Firefox はあなたのオペレーティングシステムのジオロケーション機能、Wi-fi ネットワーク、携帯電話の基地局、または IP アドレスを使用する可能性があり、このデータを Google のジオロケーションサービスに送信する可能性があります。このサービスには、独自の <a href="https://www.google.com/privacy/lsf.html">プライバシーポリシー</a> があります。</li>
+</ul>
+<p><a href="/firefox/geolocation/">詳細はこちら</a>。</p>
+</section><section id="screenshots"><h3>Firefox Screenshots</h3>
+<ul>
+<li>
+<p><strong>スクリーンショットのアップロード</strong>: あなたがアップするように指定したスクリーンショットは Mozilla に送信され、示されている期間だけ保管されます。この期間は変更することが可能です。Mozilla は、サービスの運営上必要であると判断したとき、あなたがアップロードしたスクリーンショットにアクセスすることがあります。あなたはアップロードしたスクリーンショットをいつでも削除できます。</p>
+</li>
+<li>
+<p><strong>インタラクションデータ</strong>: Mozilla は、Firefox Screenshots ウェブサイトへの訪問、アップロードされたスクリーンショットがあなたまたは他の人によってアクセスおよび共有される頻度、およびあなたによるボタンやタイトルの操作、ならびにスクリーンショットのキャプチャに関するマウスの動きなどのデータを受信します。</p>
+<p>Firefox Screenshots ウェブサイトへの訪問については、Mozilla の <a href="/privacy/websites/">ウェブサイトのプライバシーに関する通知</a> に、Mozilla が収集するデータの種類についての説明が記載されています。</p>
+</li>
+<li>
+<p><strong>技術情報</strong>: Mozilla は、あなたがアップロードしたスクリーンショットの平均のサイズや数、お使いの Firefox ブラウザーのバージョン、端末のオペレーティングシステム、およびエラーなどのデータを受信します。Firefox Screenshots ウェブサイトにアクセスする IP アドレスは、標準的なサーバーログの一部として一時的に収集されます。</p>
+</li>
+</ul>
+<p>完全なドキュメントについては <a href="https://github.com/mozilla-services/screenshots/blob/master/docs/METRICS.md">こちら</a> を、さらに詳しい情報については <a href="https://wiki.mozilla.org/Firefox/Screenshots/FAQs">こちら</a> をお読みください。</p>
+</section><section id="push-notifications"><h3>ウェブサイト通知</h3>
+<ul>
+<li>
+<p><strong>接続情報</strong>: ウェブサイトからの通知を許可した場合、Firefox は Mozilla に接続し、あなたの IP アドレスを使用してメッセージを中継します。Mozilla がメッセージの内容にアクセスすることはできません。</p>
+</li>
+<li>
+<p><strong>インタラクションデータ</strong>: Mozilla は、ウェブサイト通知に対する Firefox 登録および登録解除の数、送信されたメッセージの数、タイムスタンプ、送信者 (特定のウェブサイトプロバイダーを含む場合がある) など、集計データを受信します。</p>
+</li>
+</ul>
+<p>完全なドキュメントについては <a href="https://mozilla-push-service.readthedocs.io/en/latest/">こちら</a> を、ウェブサイト通知を無効にする方法など、詳細については <a href="https://support.mozilla.org/kb/push-notifications-firefox">こちら</a> をお読みください。</p>
+</section><section id="addons"><h3>アドオン</h3>
+<p>あなたは、addons.mozilla.org (「AMO」)、またはツールバーの Firefox メニューボタンからアクセスできる Firefox アドオンマネージャーからアドオンをインストールできます。</p>
+<ul>
+<li>
+<p><strong>検索クエリー</strong>: アドオンマネージャーの検索クエリーは、あなたにお勧めのアドオンを提供するため、Mozilla に送信されます。</p>
+</li>
+<li>
+<p><strong>インタラクションデータ</strong>: Mozilla は AMO ウェブサイトおよび Firefox のアドオンマネージャーへの訪問、ならびにそれらのページのコンテンツの操作に関するデータを集計します。Mozilla ウェブサイト上のデータの取り扱いについては <a href="/privacy/websites/">こちら</a> をお読みください。</p>
+</li>
+<li>
+<p><strong>更新用の技術情報</strong>: Firefox は、更新をアドオンにインストールするため、Mozilla に定期的に接続します。正しい更新を適用するために、あなたがインストールしたアドオン、Firefox のバージョン、言語、および端末のオペレーティングシステムが使用されます。</p>
+</li>
+</ul>
+<hr/>
+</section><section id="_3"><h3>脚注</h3>
+<p id="pre-release">このプライバシーに関する通知は、Mozilla により配布された最新一般バージョンの Firefox に対するものです。別のところで Firefox を入手された場合、または古いバージョンを実行されている場合、お使いの Firefox は異なるプライバシー特性を含んでいる可能性があります。</p>
+<p>Mozilla のプレリリース版の Firefox (Nightly、Beta、Developer Edition、TestFlight などのチャンネルを通じて配布されたもの) は開発プラットフォームであり、試験的な機能や調査を含めて頻繁に更新されます。このプライバシーに関する通知に記載されているデータ収集に加え、これらのバージョンは初期設定で、特定のタイプのウェブアクティビティやクラッシュデータを Mozilla、または場合によっては弊社パートナーに送信することがあります。いかなるデータ収集および共有も弊社の <a href="https://wiki.mozilla.org/Firefox/Data_Collection">Firefox データ収集ポリシー</a>に準じて行われ、弊社は常に透明な状態を保ち、あなたに主導権を提供します。</p>
+</section></section>
+    
+    </div>
+  </main>
+
+  <section class="privacy-footnote">
+    <div class="l-narrow">
+    
+
+      <p class="back">
+        <a href="/ja/privacy/">Mozilla プライバシーポリシーに戻る</a>
+      </p>
+    </div>
+  </section>
+</article>
+
+
+    
+  
+  <footer class="mzp-c-footer" id="colophon">
+  <div class="mzp-l-content">
+    <nav class="mzp-c-footer-primary">
+      <div class="mzp-c-footer-primary-logo">
+        <a href="/ja/" data-link-type="footer" data-link-name="Mozilla">Mozilla</a>
+      </div>
+      <div class="mzp-c-footer-sections">
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading">
+            Mozilla
+          </h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="/ja/about/" data-link-type="footer" data-link-name="About">組織概要</a></li>
+            <li><a href="https://blog.mozilla.org/" data-link-type="footer" data-link-name="Blog">ブログ</a></li>
+            <li><a href="/ja/contact/" data-link-type="footer" data-link-name="Contact Us">連絡先</a></li>
+            <li><a href="https://blog.mozilla.org/press/" data-link-type="footer" data-link-name="Press Center">プレスセンター</a>
+            <li><a href="https://donate.mozilla.org/ja/?presets=2240,1120,560,340&amp;amount=1120&amp;utm_source=mozilla.org&amp;utm_medium=referral&amp;utm_content=footer&amp;currency=jpy" class="donate" data-link-type="footer" data-link-name="Donate">寄付する</a></li>
+            <li><a href="https://wiki.mozilla.org/Webdev/GetInvolved/mozilla.org" data-link-type="footer" data-link-name="Contribute to this site">このサイトに貢献</a></li>
+          </ul>
+        </section>
+        <section class="mzp-c-footer-section">
+          <h5 class="mzp-c-footer-heading">
+          Firefox
+          </h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="/ja/firefox/new/" data-link-type="footer" data-link-name="Download Firefox">Firefox をダウンロード</a></li>
+            <li><a href="/ja/firefox/" data-link-type="footer" data-link-name="Desktop">デスクトップ</a></li>
+            <li><a href="/ja/firefox/mobile/" data-link-type="footer" data-link-name="Mobile">モバイル</a></li>
+            <li><a href="/ja/firefox/features/" data-link-type="footer" data-link-name="Features">機能</a></li>
+            <li><a href="/ja/firefox/channel/desktop/" data-link-type="footer" data-link-name="Beta, Nightly, Developer Edition">Beta、Nightly、Developer Edition</a></li>
+          </ul>
+        </section>
+      </div>
+    </nav>
+    <nav class="mzp-c-footer-secondary">
+      <div class="mzp-c-footer-language">
+        
+ <form id="lang_form" class="mzp-c-language-switcher mzp-t-dark" method="get" action="#">
+  <a class="mzp-c-language-switcher-link" href="/locales/">言語</a>
+  <label for="page-language-select">言語</label>
+  <select id="page-language-select" class="mzp-js-language-switcher-select" name="lang" dir="ltr">
+    
+      <option lang="bn-BD" value="bn-BD">বাংলা (বাংলাদেশ)</option>
+    
+      <option lang="bn-IN" value="bn-IN">বাংলা (ভারত)</option>
+    
+      <option lang="cs" value="cs">Čeština</option>
+    
+      <option lang="de" value="de">Deutsch</option>
+    
+      <option lang="el" value="el">Ελληνικά</option>
+    
+      <option lang="en-US" value="en-US">English</option>
+    
+      <option lang="es-ES" value="es-ES">Español (de España)</option>
+    
+      <option lang="es-MX" value="es-MX">Español (de México)</option>
+    
+      <option lang="fr" value="fr">Français</option>
+    
+      <option lang="hi-IN" value="hi-IN">हिन्दी (भारत)</option>
+    
+      <option lang="hr" value="hr">Hrvatski</option>
+    
+      <option lang="hu" value="hu">magyar</option>
+    
+      <option lang="id" value="id">Bahasa Indonesia</option>
+    
+      <option lang="it" value="it">Italiano</option>
+    
+      <option lang="ja" value="ja" selected>日本語</option>
+    
+      <option lang="mk" value="mk">Македонски</option>
+    
+      <option lang="nl" value="nl">Nederlands</option>
+    
+      <option lang="pl" value="pl">Polski</option>
+    
+      <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+    
+      <option lang="ro" value="ro">Română</option>
+    
+      <option lang="ru" value="ru">Русский</option>
+    
+      <option lang="sr" value="sr">Српски</option>
+    
+      <option lang="ta" value="ta">தமிழ்</option>
+    
+      <option lang="tr" value="tr">Türkçe</option>
+    
+      <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+    
+      <option lang="zh-TW" value="zh-TW">正體中文 (繁體)</option>
+    
+  </select>
+  <button type="submit">移動</button>
+ </form>
+ 
+      </div>
+      <ul class="mzp-c-footer-links-social">
+        <li><a class="twitter" href="https://twitter.com/mozilla" data-link-type="footer" data-link-name="Twitter (@mozilla)">Twitter<span> (@mozilla)</span></a></li>
+        <li><a class="instagram" href="https://www.instagram.com/mozilla/" data-link-type="footer" data-link-name="Instagram (@mozilla)">Instagram<span> (@mozilla)</span></a></li>
+      </ul>
+      <div class="mzp-c-footer-legal">
+        <p class="mzp-c-footer-license">
+        コンテンツの一部は mozilla.org への個人的な貢献によるものです。(©1998–2019). コンテンツは <a rel="license" href="/ja/foundation/licensing/website-content/">Creative Commons license</a> に基づいた利用が可能です。<ul class="mzp-c-footer-terms">
+          
+          
+            
+          
+          <li><a href="/ja/privacy/websites/" data-link-type="footer" data-link-name="Privacy">プライバシー</a></li>
+          <li><a href="/ja/privacy/websites/#cookies" data-link-type="footer" data-link-name="Cookies">Cookie</a></li>
+          <li><a href="/ja/about/legal/" data-link-type="footer" data-link-name="Legal">法的情報</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</footer>
+
+
+  </div>
+
+  <!--[if IE 9]>
+    <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/matchmedia.a6e503dcb8bc.js" charset="utf-8"></script>
+  <![endif]-->
+
+    
+<!--[if !lte IE 8]><!-->
+  <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/common-protocol.783b78ed5583.js" charset="utf-8"></script>
+<!--<![endif]-->
+
+<!--[if lte IE 8]>
+  <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/common-ie8.044218fd565d.js" charset="utf-8"></script>
+<![endif]-->
+
+
+    
+    
+      
+        <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/stub-attribution.157168bbb235.js" charset="utf-8"></script>
+      
+    
+
+    <!--[if !lte IE 8]><!-->
+    
+  
+  <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/privacy_protocol.3feb6321c80b.js" charset="utf-8"></script>
+
+  <script type="text/javascript" src="https://www.mozilla.org/media/js/BUNDLES/privacy_firefox.d49f359d65c1.js" charset="utf-8"></script>
+
+
+    
+    
+
+    
+    <!--<![endif]-->
+
+    
+    
+    <img src="https://mozilla.org/set_hsts.gif" class="hidden">
+  </body>
+</html>_z�=2�      \��\��@D��\�)�   ,    :https://www.mozilla.org/ja/privacy/firefox/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET request-Accept-Encoding gzip, deflate, br response-head HTTP/2.0 200 OK
+date: Thu, 18 Apr 2019 06:39:32 GMT
+content-type: text/html; charset=utf-8
+cache-control: max-age=3600
+content-security-policy: script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com data: mozilla.org www.googletagmanager.com www.google-analytics.com adservice.google.com adservice.google.de adservice.google.dk creativecommons.org ad.doubleclick.net; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com; frame-src www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline'; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com www.googletagmanager.com www.google-analytics.com https://accounts.firefox.com/ https://accounts.firefox.com.cn/; child-src www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com
+etag: "95db839599e76fc052f7cf4c1e0167de"
+expires: Wed, 17 Apr 2019 18:13:33 GMT
+last-modified: Wed, 17 Apr 2019 17:13:33 GMT
+strict-transport-security: max-age=31536000
+x-backend-server: bedrock-prod-web-6f9f64d6bc-fpw5k.frankfurt
+x-clacks-overhead: GNU Terry Pratchett
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-robots-tag: noodp
+x-xss-protection: 1; mode=block
+cf-cache-status: HIT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+vary: Accept-Encoding
+server: cloudflare
+cf-ray: 4c94a463ce14a5f0-NRT
+X-Firefox-Spdy: h2
+ original-response-headers date: Thu, 18 Apr 2019 06:39:32 GMT
+content-type: text/html; charset=utf-8
+cache-control: max-age=3600
+content-security-policy: script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com data: mozilla.org www.googletagmanager.com www.google-analytics.com adservice.google.com adservice.google.de adservice.google.dk creativecommons.org ad.doubleclick.net; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com; frame-src www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline'; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com www.googletagmanager.com www.google-analytics.com https://accounts.firefox.com/ https://accounts.firefox.com.cn/; child-src www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com
+etag: "95db839599e76fc052f7cf4c1e0167de"
+expires: Wed, 17 Apr 2019 18:13:33 GMT
+last-modified: Wed, 17 Apr 2019 17:13:33 GMT
+strict-transport-security: max-age=31536000
+x-backend-server: bedrock-prod-web-6f9f64d6bc-fpw5k.frankfurt
+x-clacks-overhead: GNU Terry Pratchett
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-robots-tag: noodp
+x-xss-protection: 1; mode=block
+cf-cache-status: HIT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+vary: Accept-Encoding
+server: cloudflare
+cf-ray: 4c94a463ce14a5f0-NRT
+X-Firefox-Spdy: h2
+ uncompressed-len 0 net-response-time-onstart 72 net-response-time-onstop 82 predictor::resource-count 25 predictor::https://www.mozilla.org/media/js/BUNDLES/site.ec263d31b78e.js 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/css/l10n/ja/intl.2113f6c7fc4f.css 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/css/BUNDLES/protocol-core.71b4225aedfb.css 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/css/BUNDLES/privacy_protocol.d9daee7e0dc9.css 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/js/BUNDLES/gtm-snippet.9f9cf2026c5f.js 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/logos/firefox/firefox.3a7f6cda231d.png 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/logos/firefox/developer.37e642934cce.png 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/logos/firefox/beta.dedbae9260da.png 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/logos/firefox/nightly.392751dc0d65.png 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/js/BUNDLES/common-protocol.783b78ed5583.js 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/js/BUNDLES/stub-attribution.157168bbb235.js 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/js/BUNDLES/privacy_protocol.3feb6321c80b.js 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/js/BUNDLES/privacy_firefox.d49f359d65c1.js 1,1,1555569579,4096 predictor::https://mozilla.org/set_hsts.gif 1,1,1555569579,4097 predictor::https://www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&l=dataLayer 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/logos/mozilla/black.40d1af88c248.svg 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/img/logos/firefox/logo-quantum.9c5e96634f92.png 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/logos/mozilla/white.612a25fa976b.svg 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/icons/social/twitter/white.799723d2198f.svg 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/protocol/img/icons/social/instagram/white.c37f20f03c48.svg 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/fonts/opensans-regular.668362de763a.woff2 1,1,1555569579,4096 predictor::https://www.mozilla.org/media/fonts/opensans-bold.5cf854f3d1c0.woff2 1,1,1555569579,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,1555569579,4096 predictor::https://www.google-analytics.com/plugins/ua/linkid.js 1,1,1555569579,4096  bE
