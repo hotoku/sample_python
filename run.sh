@@ -1,4 +1,11 @@
 #!/bin/bash
 
+PORT=8888
 
-docker run --rm -it -v /Users/hotoku/sample/python:/root/work -p 8889:8889 hotoku/python
+while getopts p: OPT; do
+    case ${OPT} in
+        p) PORT=${OPTARG} ;;
+    esac
+done
+
+docker run --rm -it -v /Users/hotoku/sample/python:/root/work -p ${PORT}:${PORT} hotoku/python
